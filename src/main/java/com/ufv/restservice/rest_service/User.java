@@ -13,6 +13,7 @@ public class User {
         this.email = email;
         this.roles = roles;
         this.admin = admin;
+
     }
 
     public String getName() {
